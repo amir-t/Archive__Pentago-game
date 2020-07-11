@@ -1,4 +1,4 @@
-# Pentago-game
+# [Archive] Pentago-game
 
 school project ( Pentago interactive game ) in procedural python.
 Coded in 2015
